@@ -1,0 +1,1 @@
+{"service": "frontend", "backend_response": {"service": "backend", "status": "healthy", "message": "Hello from Backend!"}}

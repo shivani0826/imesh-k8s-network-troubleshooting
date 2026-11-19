@@ -1,0 +1,4 @@
+NAME             ADDRESSTYPE   PORTS   ENDPOINTS    AGE
+backend-ll7md    IPv4          5000    10.244.0.5   9m25s
+frontend-bhh7f   IPv4          8080    10.244.0.6   7m33s
+kubernetes       IPv4          6443    172.19.0.2   22m

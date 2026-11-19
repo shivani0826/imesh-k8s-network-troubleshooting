@@ -1,0 +1,4 @@
+NAME                        READY   STATUS    RESTARTS   AGE     IP           NODE                      NOMINATED NODE   READINESS GATES
+backend-56858fbc94-px9kj    1/1     Running   0          5m42s   10.244.0.5   imesh-k8s-control-plane   <none>           <none>
+client-6ffddd9585-x876r     1/1     Running   0          2m44s   10.244.0.7   imesh-k8s-control-plane   <none>           <none>
+frontend-7c64f7fb7b-2bqb2   1/1     Running   0          3m50s   10.244.0.6   imesh-k8s-control-plane   <none>           <none>

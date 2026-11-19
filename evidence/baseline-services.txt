@@ -1,0 +1,4 @@
+NAME         TYPE        CLUSTER-IP     EXTERNAL-IP   PORT(S)    AGE
+backend      ClusterIP   10.96.145.56   <none>        5000/TCP   5m42s
+frontend     ClusterIP   10.96.55.121   <none>        8080/TCP   3m50s
+kubernetes   ClusterIP   10.96.0.1      <none>        443/TCP    18m
